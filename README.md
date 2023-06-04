@@ -1,4 +1,7 @@
-# Battery-real-time-monitor-1.0
-Battery real time monitor 1.0 for windows
+# Voltage-2.0
+for windows 7-8-10
 
-This tool will real time monitor your battery, it will write a log file into the folder "logs" same patch with this app.
+VOLTAGE is a battery monitoring application.
+
+
+<img src="Voltage logoson.png" alt="logo">
